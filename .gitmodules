@@ -1,0 +1,3 @@
+[submodule "ldk"]
+	path = ldk
+	url = https://github.com/lightningdevkit/ldk-garbagecollected.git
